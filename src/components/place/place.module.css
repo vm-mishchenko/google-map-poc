@@ -1,0 +1,17 @@
+.placeContainer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    background: white;
+    flex-direction: column;
+}
+
+.placeHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

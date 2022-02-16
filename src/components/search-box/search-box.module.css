@@ -1,0 +1,7 @@
+.searchBoxContainer {
+    position: fixed;
+    top: 0;
+    left: 40px;
+    z-index: 2;
+    margin: 10px;
+}
